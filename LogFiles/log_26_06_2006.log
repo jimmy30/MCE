@@ -1,0 +1,5 @@
+
+26.06.2006 16:43:54 |  Google : No record found
+26.06.2006 16:43:54 |  #0 F:\Projects\BarZ-MCE\Development\Website\SearchService\TextsearchService.php(210): TextSearchService->getGoogleXml('1', '10')
+26.06.2006 16:43:54 |  #1 F:\Projects\BarZ-MCE\Development\Website\SearchService\TextXml.php(60): TextSearchService->getXml('1', '10')
+26.06.2006 16:43:54 |  #2 {main}

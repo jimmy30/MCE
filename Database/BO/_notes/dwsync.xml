@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccountTypeBO.php" local="128085915540000000" remote="-1" testing="0" />
+<file name="CountryBO.php" local="128085915600000000" remote="-1" testing="0" />
+<file name="SecretQuestionBO.php" local="128085916140000000" remote="-1" testing="0" />
+<file name="StateBO.php" local="128085916140000000" remote="-1" testing="0" />
+<file name="WaypointBO.php" local="128103891580000000" remote="-1" testing="0" />
+<file name="ProducerBO.php" local="128058047920000000" remote="-1" testing="0" />
+<file name="PlaceCastBO.php" local="128085915600000000" remote="-1" testing="0" />
+<file name="ConsumerBO.php" local="128085915600000000" remote="-1" testing="0" />
+<file name="ConsumerAlertBO.php" local="128085915600000000" remote="-1" testing="0" />
+<file name="CellularProviderBO.php" local="128085915600000000" remote="-1" testing="0" />
+<file name="PlaceCastDownloadBO.php" local="128085915600000000" remote="-1" testing="0" />
+<file name="SmsAlertBO.php" local="128085916140000000" remote="-1" testing="0" />
+<file name="WaypointDownloadBO.php" local="128085916140000000" remote="-1" testing="0" />
+<file name="WebsiteHitsBO.php" local="128123903880000000" remote="-1" testing="0" />
+<file name="FeatureStatBO.php" local="128123907440000000" remote="-1" testing="0" />
+</dwsync>

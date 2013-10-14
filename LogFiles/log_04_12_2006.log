@@ -1,0 +1,5 @@
+
+04.12.2006 16:43:34 |  Yahoo : No record found 
+04.12.2006 16:43:34 |  #0 E:\projects\BarZ-MCE\development\website\SearchService\TextsearchService.php(168): TextSearchService->getYahooXml('1', '10')
+04.12.2006 16:43:34 |  #1 E:\projects\BarZ-MCE\development\website\SearchService\TextXml.php(73): TextSearchService->getXml('1', '10')
+04.12.2006 16:43:34 |  #2 {main}

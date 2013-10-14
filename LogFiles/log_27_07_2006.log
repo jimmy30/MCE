@@ -1,0 +1,5 @@
+
+27.07.2006 13:14:33 |  Yahoo : No record found 
+27.07.2006 13:14:33 |  #0 E:\projects\BarZ-MCE\development\website\SearchService\ImagesearchService.php(184): ImageSearchService->getYahooXml('1', '10')
+27.07.2006 13:14:33 |  #1 E:\projects\BarZ-MCE\development\website\SearchService\ImageXML.php(69): ImageSearchService->getXml('1', '10')
+27.07.2006 13:14:33 |  #2 {main}

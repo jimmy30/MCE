@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccountTypesDAO.php" local="128117771280000000" remote="-1" testing="0" />
+<file name="CountryDAO.php" local="128085916240000000" remote="-1" testing="0" />
+<file name="SecretQuestionDAO.php" local="128085916240000000" remote="-1" testing="0" />
+<file name="StateDAO.php" local="128085916240000000" remote="-1" testing="0" />
+<file name="ProducerDAO.php" local="128134111560000000" remote="-1" testing="0" />
+<file name="PlaceCastDAO.php" local="128157337280000000" remote="-1" testing="0" />
+<file name="WaypointDAO.php" local="128141139180000000" remote="-1" testing="0" />
+<file name="ConsumerDAO.php" local="128147078580000000" remote="-1" testing="0" />
+<file name="ConsumerAlertDAO.php" local="128085916240000000" remote="-1" testing="0" />
+<file name="CellularProviderDAO.php" local="128104019760000000" remote="-1" testing="0" />
+<file name="SmsAlertDAO.php" local="128091961580000000" remote="-1" testing="0" />
+<file name="WebsiteHitsDAO.php" local="128123907600000000" remote="-1" testing="0" />
+<file name="PlaceCastDownloadDAO.php" local="128109068800000000" remote="-1" testing="0" />
+<file name="WaypointDownloadDAO.php" local="128109068600000000" remote="-1" testing="0" />
+<file name="FeatureStatDAO.php" local="128123987420000000" remote="-1" testing="0" />
+</dwsync>

@@ -1,0 +1,437 @@
+.HeadingText
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:14px;
+	color:#FFFFFF;
+}
+
+.HeadingMainText
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:15px;
+	color:#FFFFFF;
+}
+
+.TabTopText
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	color:#083a8f;
+	text-decoration:none;
+}
+
+.TabTopText:hover
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	color:#083a8f;
+	text-decoration:underline;
+}
+
+
+.TabTopTextHightLight
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.TabTopTextHightLight:hover
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+
+
+
+
+.TabBottomText
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#083a8f;
+	text-decoration:none;
+}
+
+.TabBottomText:hover
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#083a8f;
+	text-decoration:underline;
+}
+
+
+.TabBottomTextHightLight
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.TabBottomTextHightLight:hover
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+
+.LinkSmall
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#083a8f;
+	text-decoration:underline;
+}
+.LinkSmall:hover
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#083a8f;
+	text-decoration:none;
+}
+
+
+.InputLabelSmall
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#083a8f;
+} 
+.BodyTextSmall
+
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#FFFFFF;
+}
+
+.TextNormal
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#083a8f;
+}
+.TextBoxSmall
+{
+
+	height:12px;
+	width:65px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border-width:1px;
+	border-color:#083a8f;
+	border-style:solid;
+}
+.TextBox
+{
+
+	height:15px;
+	width:120px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border-width:1px;
+	border-color:#083a8f;
+	border-style:solid;
+}
+
+.ButtonSmall
+{
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#083a8f;
+	border-color:#083a8f;
+	color:#ffffff;
+	font-size:11px;
+	font-weight:bold;
+	text-decoration:none;
+	width:50px;
+}
+.Button 
+{
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#083a8f;
+	border-color:#083a8f;
+	color:#ffffff;
+	font-size:11px;
+	font-weight:bold;
+	text-decoration:none;
+	width:70px;
+}
+
+.Footer
+{
+	font-family:Arial, Helvetica, sans-serif;
+	/*font-weight:bold;*/
+	font-size:12px;
+	color:#FFFFFF;
+}
+
+.SearchSettings
+{
+	background-color:#5eb1d2;
+	border:2px solid #083a8f;
+	padding:10px;
+}
+
+
+.SearchSettingHeading 
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#FFFFFF;
+
+}
+
+.SearchSettingText
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+}
+
+.SearchSettingLink
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+.SearchSettingLink:hover
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-decoration:none;
+	
+}
+
+.ToolTipText
+{
+	font-family:verdana, Arial, sans-serif;
+	font:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	/*font-weight:bold;*/
+}
+
+
+.ErrorBoxText
+{
+	font-family:verdana, Arial, sans-serif;
+	font:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	/*font-weight:bold;*/
+}
+
+
+
+#dhtmltooltip
+{
+	position: absolute;
+	left:-300px;
+	width:150px;
+	border:2px solid #93a4c8;
+	padding:2px;
+	background-color:#d9e1f0;
+	font-family:Arial;
+	visibility:hidden;
+	z-index:100;
+	/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+	filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+	
+#dhtmlpointer
+{
+	position:absolute;
+	left: -300px;
+	z-index: 101;
+	visibility: hidden;
+}
+
+.dojoDialog 
+{
+	background : #eee;
+	border : 1px solid #999;
+	-moz-border-radius : 1px;
+	padding :0px;
+}
+	
+/***************************************************************************/
+/****************************Start GPS Tagging******************************/
+/***************************************************************************/
+.GPSTaggingBodyText
+ {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #083A8F;
+	text-decoration: none;
+}
+.GPSTaggingTitleText 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.GPSTaggingBodyTextWhite 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.GPSTaggingButton 
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color: #FFFFFF;
+	background-color: #083A8F;
+	border:1px solid  #FFFFFF;
+	width:75px;
+}
+
+.GPSTaggingBodyTextGrey 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+}
+.GPSTaggingBodyWhite
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+.GPSTaggingLinks 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0E3F84;
+	text-decoration: underline;
+}
+.GPSTaggingTitleCellBg
+{
+	background-color: #083A8F;
+}
+.GPSTaggingBodyCellBg
+{
+	background-color: #6AB9D7;
+}
+
+/***************************************************************************/
+/****************************End GPS Tagging******************************/
+/***************************************************************************/
+
+/***************************************************************************/
+/**************************** Start Registration ******************************/
+/***************************************************************************/
+
+.RegistrationTitleText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-style: normal;
+}
+.RegistrationTitleTextSmall {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-style: normal;
+}
+.RegistrationTitleTextWhite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-style: normal;
+}
+.RegistrationCellBg {
+	background-color: #083A8F;
+}
+.RegistrationBodyText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #083A8F;
+}
+.RegistrationBodyTextWhite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.RegistrationButton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #083A8F;
+	width: 150px;
+	font-style: normal;
+	height: 25px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #CCCCCC;
+}
+.RegistrationMessage
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: RED;
+	background-color: #ffffae;
+}
+.RegistrationTabBorder
+{
+	border-width:2px;
+	border-color:#083A8F;
+	border-style:solid;
+}
+
+/***************************************************************************/
+/**************************** End Registration ******************************/
+/***************************************************************************/
+
+
+/***************************************************************************/
+/**************************** Start Admin *********************************/
+/***************************************************************************/
+
+.AdminTitleText 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: #083A8F;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 2pt;	1
+	
+}
+/***************************************************************************/
+/**************************** End Admin *********************************/
+/***************************************************************************/

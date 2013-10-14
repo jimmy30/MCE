@@ -1,0 +1,20 @@
+
+20.12.2006 20:18:45 |  Yahoo : No record found 
+20.12.2006 20:18:45 |  #0 E:\projects\BarZ-MCE\development\website\SearchService\TextsearchService.php(168): TextSearchService->getYahooXml('1', '10')
+20.12.2006 20:18:45 |  #1 E:\projects\BarZ-MCE\development\website\SearchService\TextXml.php(73): TextSearchService->getXml('1', '10')
+20.12.2006 20:18:45 |  #2 {main}
+
+20.12.2006 20:23:23 |  Yahoo : No record found 
+20.12.2006 20:23:23 |  #0 E:\projects\BarZ-MCE\development\website\SearchService\TextsearchService.php(168): TextSearchService->getYahooXml('1', '10')
+20.12.2006 20:23:23 |  #1 E:\projects\BarZ-MCE\development\website\SearchService\TextXml.php(73): TextSearchService->getXml('1', '10')
+20.12.2006 20:23:23 |  #2 {main}
+
+20.12.2006 20:26:06 |  Yahoo : No record found 
+20.12.2006 20:26:06 |  #0 E:\projects\BarZ-MCE\development\website\SearchService\TextsearchService.php(168): TextSearchService->getYahooXml('1', '10')
+20.12.2006 20:26:06 |  #1 E:\projects\BarZ-MCE\development\website\SearchService\TextXml.php(73): TextSearchService->getXml('1', '10')
+20.12.2006 20:26:06 |  #2 {main}
+
+20.12.2006 20:26:33 |  Yahoo : No record found 
+20.12.2006 20:26:33 |  #0 E:\projects\BarZ-MCE\development\website\SearchService\TextsearchService.php(168): TextSearchService->getYahooXml('1', '10')
+20.12.2006 20:26:33 |  #1 E:\projects\BarZ-MCE\development\website\SearchService\TextXml.php(73): TextSearchService->getXml('1', '10')
+20.12.2006 20:26:33 |  #2 {main}
